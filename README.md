@@ -2,6 +2,8 @@
 
 Simple python programs for learning.
 
+I learned python from this [guide](https://www.liaoxuefeng.com/).
+
 ## Check login
 
 Check user login using `hashlib`.
